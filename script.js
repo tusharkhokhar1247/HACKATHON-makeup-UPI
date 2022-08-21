@@ -1,5 +1,5 @@
 let apiResponse = []
-
+Maniroy7541@freecharge
 async function fetchData(){
     return await fetch("https://makeup-api.herokuapp.com/api/v1/products.json").then (async function(response){
         console.log(response)
